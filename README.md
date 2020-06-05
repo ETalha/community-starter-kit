@@ -4,7 +4,7 @@ DESCRIPTION PLACEHOLDER
 
 ## What it does
 
-FEATURES PLACEHOLDER
+learning gitgub is really useful!
 
 ## Getting started
 
